@@ -22,7 +22,7 @@ pip3 install googletrans
 
 pip3 install humanfriendly
 
-git clone https://github.com/alinxmutz/unity-py3.git
+git clone https://github.com/mazG69/mbuh
 
 cd Unity
 
